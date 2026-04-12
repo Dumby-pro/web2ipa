@@ -1,0 +1,20 @@
+Package: web2ipa
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Dumby-pro <dumby-pro@users.noreply.github.com>
+Depends: python3, zip, unzip, curl
+Recommends: ideviceinstaller, libimobiledevice-utils, openjdk-17-jdk
+Filename: web2ipa_1.0.0-1_all.deb
+Size: 19158
+MD5sum: c188ed767b261f40c50495af74f07bba
+SHA1: b304eb5c0747e0e44d79d30f3501613d4fd4a25e
+SHA256: 205115ddf97b79ba2617e45efc0ee779cc58073b87f7cd77c8f4a791a62dca42
+Section: utils
+Priority: optional
+Homepage: https://github.com/Dumby-pro/web2ipa
+Description: Convert web apps into sideloadable iOS IPA and Android APK files
+ A CLI tool that packages any local web app folder into a sideloadable
+ iOS .ipa (via xtool + Swift) or Android .apk (via Gradle + Java).
+ Also supports deploying to SideStore sources and extracting IPAs from
+ connected iPhones.
+

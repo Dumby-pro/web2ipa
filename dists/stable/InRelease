@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: web2ipa
+Label: web2ipa
+Suite: stable
+Codename: stable
+Version: 1.0.0
+Components: main
+Architectures: all
+Date: Sun, 12 Apr 2026 15:46:30 +0000
+MD5Sum:
+ a911a59bb5c1f2374c01347e1a56b591 811 main/binary-all/Packages
+ 7e1a2e9dcfc0830179e8c6d84c985e19 568 main/binary-all/Packages.gz
+SHA1:
+ 121f5ab3441244ed553f8425e861f5c74c48cf1e 811 main/binary-all/Packages
+ b1a417d441b27b5c3b100d2f51d5cc28dc8e5fbd 568 main/binary-all/Packages.gz
+SHA256:
+ 0b40dcb64983eaec9c8a83fae6271c8290f2191d97b2eaf96204b895feaa9e42 811 main/binary-all/Packages
+ e0af7e3f99ec5e94e57ea8c3e6ab48439cd558282e155d1003a458b2dfd87652 568 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE0nqYzmStw6YH8yj1126Tl0zhXy0FAmnbvmEACgkQ126Tl0zh
+Xy1shg//cvJQl1VgOD6hSNyT4kUF+e9CjKKRcJjAqr7tvPJXieKdU41hyZyaA4c9
+wz5rNNU5EW48QhECl/+rX9RNJl22TnrGZMyL47acWw4HMik/QsP9CkUtoGLYsgpu
+AzU2dqStnhI1tjM0S7vKiqflpuyr8yiMwI19HvrJ5a8Rx7kCEtS7nvilatvcLgCL
+ZD0k++A+otGMM887p1cpx3P5bM9j9Ur9DNnAMfMocZBERNF6ye1YjFFs5K1kj+hw
+G2tS+8GI28PUAomSsAw7+sBYtZRcVgELNo3tSxyv913urLA1e5ncsORaYIowT9bY
+HOsmTC2F9qj6ZulPRkNrTkGhEou+HZFARvfKAHay9dihr68yDiGaOBumQxLekSZD
++1/aJ/ZhkpnOjayq7zVKRzvyGGrLK8sG8qZAGDOHeK+GgsLenSFiqAia5wk5A5Jq
+JhgNhQCahwD1/TbVfDMGLUaI+HrnOO9WvvjOmj/iIiniktzv1G0y3E6Gbf1chTBm
+k0OL0ZUqsVNKTvI322fehjqNAtY5LPqHV7KzFhB5URAAZVS6jyUiK3MngJtmWhhM
+J4VLHAwoaV0GFuKQBn0+99qtCdmMTA4bePCiJmaVR0hI38e6mGWtHEn5AF52yj0v
+3Ai9lKGd4N1pACUagrRGTH4PjqTwUr6ve1S14F6ejGKV8FzYWl4=
+=WNVg
+-----END PGP SIGNATURE-----

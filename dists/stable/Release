@@ -1,0 +1,17 @@
+Origin: web2ipa
+Label: web2ipa
+Suite: stable
+Codename: stable
+Version: 1.0.0
+Components: main
+Architectures: all
+Date: Sun, 12 Apr 2026 15:46:30 +0000
+MD5Sum:
+ a911a59bb5c1f2374c01347e1a56b591 811 main/binary-all/Packages
+ 7e1a2e9dcfc0830179e8c6d84c985e19 568 main/binary-all/Packages.gz
+SHA1:
+ 121f5ab3441244ed553f8425e861f5c74c48cf1e 811 main/binary-all/Packages
+ b1a417d441b27b5c3b100d2f51d5cc28dc8e5fbd 568 main/binary-all/Packages.gz
+SHA256:
+ 0b40dcb64983eaec9c8a83fae6271c8290f2191d97b2eaf96204b895feaa9e42 811 main/binary-all/Packages
+ e0af7e3f99ec5e94e57ea8c3e6ab48439cd558282e155d1003a458b2dfd87652 568 main/binary-all/Packages.gz
